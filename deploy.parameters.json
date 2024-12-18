@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "eastus"
+            "value": "westus"
         },
         "sku": {
-            "value": "B1"
+            "value": "F1"
         },
         "capacity": {
             "value": 1
