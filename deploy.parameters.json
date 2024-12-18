@@ -12,10 +12,10 @@
             "value": 1
         },
         "appServicePlanName": {
-            "value": "MyMvcAppServicePlan"
+            "value": "MyMvcAppServicePlan-001"
         },
         "webAppName": {
-            "value": "MyMvcApp"
+            "value": "MyMvcApp-20240319"
         }
     }
 }
